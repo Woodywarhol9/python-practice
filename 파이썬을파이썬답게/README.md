@@ -6,9 +6,9 @@
 4. [seqeunce 다루기](#sequence-다루기)
 5. [Itertools/Combinations 모듈 활용하기](#Itertools/Combinations-모듈-활용하기)
 6. [기타 팁](#기타-팁)
-
+---
 ### `int` 다루기
-#### 몫과 나머지 구하기
+##### 몫과 나머지 구하기
 - `divmod`와 `unpacking`을 이용해서 쉽게 표현 가능
 
 ``` python
