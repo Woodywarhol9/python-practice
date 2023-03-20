@@ -1,10 +1,10 @@
 # 파이썬을 파이썬답게
 목차
-1. [int 다루기](#`int`-다루기)
-2. [str 다루기](#`str`-다루기)
-3. [Iterable 다루기](#`Iterable`-다루기)
-4. [seqeunce 다루기](#`sequence`-다루기)
-5. [Itertools/Combinations 모듈 활용하기](#`Itertools`/`Combinations`-모듈-활용하기)
+1. [int 다루기](#int-다루기)
+2. [str 다루기](#str-다루기)
+3. [Iterable 다루기](#Iterable-다루기)
+4. [seqeunce 다루기](#sequence-다루기)
+5. [Itertools/Combinations 모듈 활용하기](#Itertools/Combinations-모듈-활용하기)
 6. [기타 팁](#기타-팁)
 
 ### `int` 다루기
