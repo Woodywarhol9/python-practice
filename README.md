@@ -1,6 +1,6 @@
 # Python practice
-Python을 더 잘 사용할 수 있도록, 공부한 내용들을 정리합니다. 
-링크를 클릭하면 관련 내용들을 확인할 수 있습니다.
+- Python을 더 잘 사용할 수 있도록, 공부한 내용들을 정리합니다. 
+- 링크를 클릭하면 관련 내용들을 확인할 수 있습니다.
 
 ---
 - [파이썬을 파이썬답게](/파이썬을파이썬답게/README.md)
@@ -11,7 +11,7 @@ Python을 더 잘 사용할 수 있도록, 공부한 내용들을 정리합니�
   - `re` 모듈을 활용한 `정규 표현식` 사용 실습
   - [참고 강의]((https://school.programmers.co.kr/learn/courses/11))
 ---
-- [타입 파이썬! 올바른 class 사용법과 객체지향 프로그래밍](/타입%20파이썬!%20올바른%20class%20사용법과%20객체지향%20프로그래밍/README.md)
+- [타입 파이썬! 올바른 class 사용법과 객체지향 프로그래밍](https://github.com/woodywarhol9/oop-python)
   - `OOP` 이해하기
   - `Linter/Formatter`, `Type Hints(Checking)` 필요성 확인과 적용
   - [참고 강의](https://www.inflearn.com/course/%ED%83%80%EC%9E%85-%ED%8C%8C%EC%9D%B4%EC%8D%AC/dashboard)
