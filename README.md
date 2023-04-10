@@ -9,7 +9,7 @@
 ---
 - [Python을 활용한 정규 표현식 작성법](/정규표현식/README.md)
   - `re` 모듈을 활용한 `정규 표현식` 사용 실습
-  - [참고 강의]((https://school.programmers.co.kr/learn/courses/11))
+  - [참고 강의](https://school.programmers.co.kr/learn/courses/11)
 ---
 - [타입 파이썬! 올바른 class 사용법과 객체지향 프로그래밍](https://github.com/woodywarhol9/oop-python)
   - `OOP` 이해하기
